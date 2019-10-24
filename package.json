@@ -36,6 +36,7 @@
     "autod": "autod"
   },
   "files": [
+    "lib/",
     "app.js",
     "agent.js",
     "config",

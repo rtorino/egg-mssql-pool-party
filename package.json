@@ -1,6 +1,6 @@
 {
   "name": "egg-mssql-pool-party",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "MSSQL plugin for egg with support for failover",
   "eggPlugin": {
     "name": "mssqlPoolParty"
@@ -11,7 +11,7 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "mssql-pool-party": "^0.4.0"
+    "mssql-pool-party": "^0.5.2"
   },
   "devDependencies": {
     "autod": "^3.0.1",
